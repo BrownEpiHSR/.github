@@ -15,5 +15,4 @@ Each repository contains code and documentation for the corresponding study.
 ## ❓ Questions or Interested in Becoming a Member?
 
 If you would like to join the organization to access internal resources, please contact:
-
 **📧 help-brownepihsr@brown.edu**
