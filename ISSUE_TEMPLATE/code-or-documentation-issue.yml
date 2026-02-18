@@ -1,0 +1,39 @@
+name: Code or Documentation Issue
+description: Report a problem with code, documentation, or repository content.
+title: "[Code or Documentation Issue]: "
+labels: [bug]
+body:
+  - type: textarea
+    id: summary
+    attributes:
+      label: Issue Summary
+      description: Briefly describe the problem you encountered.
+      placeholder: Code did not run as expected, documentation unclear, output differed from expectations, etc.
+    validations:
+      required: true
+
+  - type: textarea
+    id: context
+    attributes:
+      label: Context
+      description: Please include relevant details to help us understand the issue.
+      placeholder: |
+        - File name:
+        - Dataset(s) used:
+        - Server/environment (e.g., LINKAGE Enclave, Gero server):
+    validations:
+      required: false
+
+  - type: textarea
+    id: details
+    attributes:
+      label: What Happened?
+      description: Describe what occurred, including error messages or unexpected output.
+    validations:
+      required: true
+
+  - type: markdown
+    attributes:
+      value: |
+        ---
+        @BrownEpiHSR/a-team-biostatisticians will review and coordinate next steps.
