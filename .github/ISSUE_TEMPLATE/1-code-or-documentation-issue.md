@@ -15,7 +15,7 @@ Please include relevant details to help us understand the issue:
 
 **File name:**
 
-***Dataset(s) used:**
+**Dataset(s) used:**
 
 **Server/environment (e.g., Gero server, LINKAGE Enclave):**
 
