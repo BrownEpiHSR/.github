@@ -1,3 +1,11 @@
+---
+name: Code or Documentation Issue
+about: Report a code or documentation issue for this repository
+title: "[Code or Documentation Issue:] "  
+labels: bug
+assignees: ''
+---
+
 ## Issue summary
 Briefly describe the problem you encountered 
 (e.g., code did not run as expected, documentation unclear, output differed from expectations, etc.):
