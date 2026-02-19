@@ -1,3 +1,11 @@
+---
+name: Suggest Addition
+about: Suggest an addition to this repository
+title: "[Suggest Addition]: "
+labels: enhancement
+assignees: ''
+---
+
 ## What would you like to see added or improved?
 Briefly describe your suggestion:
 
